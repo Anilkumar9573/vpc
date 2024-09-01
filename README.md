@@ -14,4 +14,8 @@ VPC stands for Virtual Private Cloud. It’s a service offered by cloud provider
          which are stateful and automatically allow return traffic for allowed inbound traffic, Network ACLs are stateless. This means you must define rules for both inbound and outbound traffic separately.
 # 7)VPC FLOW LOGS:
               VPC Flow Logs is a feature in Amazon Web Services (AWS) that allows you to capture information about the IP traffic going to and from network interfaces in your Virtual Private Cloud.
+# Deploy application in vpc link 
+project1-432817283.us-east-1.elb.amazonaws.com
+
+
               
